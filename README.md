@@ -1,4 +1,5 @@
 # Wiki
+
 A Wikipedia-like online encyclopedia. Project 1 of HarvardX's CS50w course.
 
 Check out [CS50 Web Programming with Python and JavaScript](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course/)
